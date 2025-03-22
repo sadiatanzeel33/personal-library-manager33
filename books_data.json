@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The future is faster than you think",
+        "author": "Steven Kotler",
+        "year": "2020",
+        "genre": "Technology",
+        "read": true
+    },
+    {
+        "title": "Blockchain Revolution",
+        "author": "Alex Tapscott",
+        "year": "2014",
+        "genre": "Blockchain,Technology",
+        "read": true
+    }
+]
